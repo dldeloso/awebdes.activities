@@ -1,1 +1,1 @@
-# awebdes.activities
+# AWEBDES Laboratory Activities
